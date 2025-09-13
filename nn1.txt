@@ -7,7 +7,11 @@ a
 aa bbbbbbb bbb
 vvv
 nn1
+<<<<<<< HEAD
 nn11
 
+=======
+vvv
+>>>>>>> 3a996fa68355b5b898e6cd86d17d89740f98e5e6
 
 
